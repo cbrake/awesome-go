@@ -1030,6 +1030,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [mainflux](https://github.com/Mainflux/mainflux) - Industrial IoT Messaging and Device Management Server.
 * [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
 * [sensorbee](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT.
+* [Simple IoT](https://github.com/simpleiot/simpleiot) - Building blocks and standalone application to build custom IoT systems/products quickly.
 
 ## Job Scheduler
 
